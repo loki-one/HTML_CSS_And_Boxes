@@ -7,3 +7,5 @@ Content Sectioning : https://developer.mozilla.org/en-US/docs/Web/HTML/Element#C
 
 Sections and Outlines of an HTML5 Document - The HTML5 Outline Algorithm: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_outline_algorithm
 
+Validate your HTML: http://validator.w3.org/#validate_by_input
+Validate your CSS: http://jigsaw.w3.org/css-validator/#validate_by_input
