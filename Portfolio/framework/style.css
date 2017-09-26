@@ -1,0 +1,64 @@
+* {
+   border: 0px !important;
+}
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.main-title {
+  font-size: 60px;
+  text-align: right;
+  color: #BCBBBB;
+  margin-right: 165px;
+}
+
+.sub-title {
+  font-weight: bold;
+  text-align: right;
+  margin-right: 165px;
+}
+
+#header {
+
+  border-bottom: thick solid #BCBBBB !important;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+  color: #747704;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: #747704;
+}
+
+h2 {
+  font-weight: bold;
+  color: #BCBBBB;
+}
+
+#featuredwork {
+  font-size: 25px;
+  margin-left: 165px;
+}
+
+.project-image {
+  display: block;
+  margin: auto;
+
+}
+#logo {
+  margin-top: 50px;
+  margin-left: 165px;
+}
+
+#main-image{
+  display: block;
+  margin: auto;
+}
