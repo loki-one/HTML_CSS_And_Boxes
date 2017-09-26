@@ -11,3 +11,7 @@ Validate your HTML: http://validator.w3.org/#validate_by_input
 Validate your CSS: http://jigsaw.w3.org/css-validator/#validate_by_input
 
 To solve the cross-browser compatibility: Just link to normalize.css
+
+
+For image placeholders: https://placekitten.com/
+For Fonts: https://fonts.google.com/
