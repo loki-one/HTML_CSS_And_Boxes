@@ -9,12 +9,6 @@
     box-sizing: border-box;
 }
 
-@media only print and (max-width: 500px) {
-  p {
-      display: none;
-  }
-}
-
 .grid {
     margin: 0 auto;
     max-width: 1200px;
